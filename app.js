@@ -4,7 +4,7 @@ async function sendMessage(message) {
         method: 'POST',
         headers: {
             "Content-Type": "application/json",
-            "Authorization": `Bearer ${api key}`
+            "Authorization": `Bearer ${replace your own api key}`
         },
         body: JSON.stringify({
             "model": "mistralai/Mistral-7B-Instruct-v0.2",
