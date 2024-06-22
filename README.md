@@ -18,8 +18,9 @@ A simple chatbot application that allows users to interact with an AI model usin
 ## Usage
 
 1. Clone the repository
-2. Open `index.html` in your web browser.
-3. Start chatting with the AI chatbot!
+2. replace api key in app.js
+3. Open `index.html` in your web browser.
+4. Start chatting with the AI chatbot!
 
 ## Credits
 
